@@ -1,2 +1,2 @@
-# The Multiligual Referential Annotation Corpus
+# The Multilingual Referential Annotation Corpus
 
