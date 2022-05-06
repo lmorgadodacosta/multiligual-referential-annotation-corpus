@@ -1,2 +1,2 @@
-# multiligual-referential-annotation-corpus
-The Multiligual Referential Annotation Corpus
+# The Multiligual Referential Annotation Corpus
+
